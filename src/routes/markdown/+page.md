@@ -1,4 +1,4 @@
-# This was wrtiten in markdown!
+# This was written in markdown!
 **I think Andrew will really like it:**
 - cause it's cool
 - cause he likes frontend stuff (kinda)
